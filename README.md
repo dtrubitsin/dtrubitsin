@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center"> Привет! Меня зовут Дмитрий Трубицин <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<img align="right" src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="400">
 
-<!--
-**dtrubitsin/dtrubitsin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Я инженер по машинному обучению
+*Мне нравится возможность применять технологии машинного обучения <br/> 
+для решения прикладных задач и видеть результат работы.*<br/>*Эта область меня очень вдохновляет.*
 
-Here are some ideas to get you started:
+Контакты:
+* 📲 [Telegram](https://t.me/dmitry_trubitsin)
+* 💻 [LinkedIn](https://www.linkedin.com/in/dmitry-trubitsin/?trk=opento_sprofile_topcard)
+* 🔭 [Kaggle](https://www.kaggle.com/dmitrytrubitsin)
+* ✉ [di.trubitsin@gmail.com](mailto:di.trubitsin@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Навыки :hammer_and_wrench:
+
+- **ML skills**: `Python`, `SQL`, `Git`, `PostreSQL`, `Redash`, `Airflow`
+- **Technologies**: `Pandas`, `Numpy`, `Scipy`, `Sklearn`, `Matplotlib`, `Seaborn`, `SQLALchemy`,  `CatBoost`,  `FastAPI`, `PyTorch`, `OpenCV`
+---
+
+
